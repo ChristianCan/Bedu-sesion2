@@ -1,0 +1,88 @@
+#body{
+    background-color: #fffbf7;
+}
+
+.header-container-padre {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+
+.header-container-padre >*{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.navbar{
+    width: 70%;
+    text-align: center;
+    height: 45px;
+
+}
+
+.navbar a{
+    color: #025157;
+    text-decoration: none;
+}
+
+.menu-item{
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.actions > * {
+    display: inline;
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+
+.actions a{
+    color: #67b54b;
+    text-decoration: none;
+}
+
+.actions button{
+    color: white;
+    background-color: #67b54b;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.footer-container{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.footer-container >*{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer-container a{
+    color: #025157;
+    text-decoration: none;
+}
+
+.footer-text{
+    color: #025157;
+    margin-left: 25px;
+
+}
+
+.menu-item-footer{
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
